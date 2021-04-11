@@ -1,0 +1,4 @@
+name: ArmiWorldBungee
+version: ${project.version}
+main: net.tkdkid1000.armiworldbungee.ArmiWorldBungee
+author: TKDKid1000
